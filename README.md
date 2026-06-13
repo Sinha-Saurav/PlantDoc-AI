@@ -1,4 +1,4 @@
-# 🌿 Plant-Disease-Detection-and-Treatment-AI
+# 🌿 PlantDoc-AI
 
 (Deep Learning + FastAPI + Streamlit)
 
